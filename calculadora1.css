@@ -1,0 +1,18 @@
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+  }
+  .form {
+    width: 450px;
+  }
+  .resultado-center {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+  }
+  .botones-center {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+  }
